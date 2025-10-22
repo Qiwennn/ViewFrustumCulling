@@ -34,9 +34,7 @@ struct Mesh : public Component
 	// Constructor -------------------------------------------------------------
 	Mesh(PE::GameContext &context, PE::MemoryArena arena, Handle hMyself);
 
-	virtual ~Mesh()
-	{
-	}
+	virtual ~Mesh(){}
 
 	virtual void addDefaultComponents();
 
