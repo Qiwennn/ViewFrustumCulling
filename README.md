@@ -1,6 +1,7 @@
 # CSCI 522 Assignment 3 — Bounding Volumes & Frustum Culling
 # Demo Video
-https://youtu.be/wTbKF90_vTw
+![Uploading FrustumCulling-ezgif.com-crop.gif…]()
+
 # What’s Implemented
 # 1) AABB generation (load time, once per mesh)
 
