@@ -1,4 +1,4 @@
-# CSCI 522 Assignment 3 — Bounding Volumes & Frustum Culling
+# Bounding Volumes & Frustum Culling
 # Demo Video
 ![FrustumCulling-ezgif com-crop](https://github.com/user-attachments/assets/8f1d417b-118c-4c7d-ac7c-0d2973af9ed1)
 
